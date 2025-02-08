@@ -7,4 +7,6 @@
   justify-content: start;
   overflow: hidden;
   gap: 1rem;
+  white-space: nowrap;
+  @import '../../assets/animations/iconScroll.css';
 }
