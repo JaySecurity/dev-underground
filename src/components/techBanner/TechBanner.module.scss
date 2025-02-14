@@ -2,11 +2,26 @@
   margin: 2rem auto;
   width: 100%;
   height: min-content;
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+}
+
+.scroll {
   display: flex;
   flex-direction: row;
-  justify-content: start;
-  overflow: hidden;
-  gap: 1rem;
+  align-items: center;
+  justify-content: space-around;
+  width: fit-content;
   white-space: nowrap;
-  @import '../../assets/animations/iconScroll.css';
+  animation: loop 30s linear infinite;
+}
+
+@keyframes loop {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
 }

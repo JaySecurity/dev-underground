@@ -1,11 +1,11 @@
-import styles from './TechBanner.module.scss'
+import styles from './TechBanner.module.scss';
 
-const TechBanner = ({ children, }: Readonly<{ children: React.ReactNode }>) => {
+const TechBanner = ({ children }: Readonly<{ children: React.ReactNode }>) => {
   return (
     <div className={styles.container}>
-      {children}
+      <div className={styles.scroll}>{children}</div>
     </div>
-  )
-}
+  );
+};
 
-export default TechBanner
+export default TechBanner;
