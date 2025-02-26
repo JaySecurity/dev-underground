@@ -1,0 +1,54 @@
+.container {
+  width: 100%;
+  min-width: 300px;
+  max-width: 900px;
+  min-height: 550px;
+  margin: 1.25rem;
+  padding: 1.5rem;
+  background-color: #655656;
+  border-radius: .5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  p {
+    margin-bottom: .5em;
+  }
+
+  h4 {
+    font-size: 1.25rem;
+    margin-bottom: .75rem;
+  }
+}
+
+
+.image {
+  max-width: 40%;
+  // max-height: 95%;
+  border-radius: 1rem;
+}
+
+.info {
+  height: 500px;
+  width: 55%;
+  padding-right: 8px;
+  overflow-y: auto;
+
+}
+
+.techlist {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 0 0 .5rem 0;
+  list-style: none;
+  gap: .5rem 1rem;
+
+  li {
+    font-size: 1rem;
+
+  }
+
+}

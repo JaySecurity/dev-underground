@@ -5,10 +5,7 @@ const Header = () => {
   return (
     <div className={styles.container}>
       <ul>
-        <li>
-          Home
-        </li>
-        <li>About</li>
+        <li>Home</li>
         <li>Projects</li>
         <li>Contact</li>
       </ul>

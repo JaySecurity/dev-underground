@@ -1,1 +1,62 @@
-<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg"><path d="M84.466 0L63.887 36.578H22.756L43.321 0z" opacity=".45"/><path d="M63.887 36.576h41.145L84.468 0H43.323z" opacity=".6"/><path d="M43.323 73.138l20.565-36.562L43.323 0 22.759 36.576z" opacity=".8"/><path d="M43.521 128L64.1 91.424h41.145L84.666 128z" opacity=".45"/><path d="M64.1 91.426H22.955l20.564 36.575h41.145z" opacity=".6"/><path d="M84.666 54.864L64.102 91.426l20.564 36.575 20.579-36.575z" opacity=".8"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="Solidity.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.84375"
+     inkscape:cx="64"
+     inkscape:cy="63.943463"
+     inkscape:window-width="3840"
+     inkscape:window-height="2134"
+     inkscape:window-x="3840"
+     inkscape:window-y="1106"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="M84.466 0L63.887 36.578H22.756L43.321 0z"
+     opacity=".45"
+     id="path1"
+     style="fill:#000080" />
+  <path
+     d="M63.887 36.576h41.145L84.468 0H43.323z"
+     opacity=".6"
+     id="path2"
+     style="fill:#000080" />
+  <path
+     d="M43.323 73.138l20.565-36.562L43.323 0 22.759 36.576z"
+     opacity=".8"
+     id="path3"
+     style="fill:#000080" />
+  <path
+     d="M43.521 128L64.1 91.424h41.145L84.666 128z"
+     opacity=".45"
+     id="path4"
+     style="fill:#000080" />
+  <path
+     d="M64.1 91.426H22.955l20.564 36.575h41.145z"
+     opacity=".6"
+     id="path5"
+     style="fill:#000080" />
+  <path
+     d="M84.666 54.864L64.102 91.426l20.564 36.575 20.579-36.575z"
+     opacity=".8"
+     id="path6"
+     style="fill:#000080" />
+</svg>

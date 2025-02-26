@@ -17,10 +17,8 @@
   }
 
   li {
-    width: 280px;
+    width: calc(25% - 12px);
     background-color: #171717;
-    // border: 2px solid #ccc;
-    // border-bottom: none;
     border-radius: 8px 8px 0 0;
     padding: 1rem;
     box-shadow: 5px -5px 4px 4px rgba(67, 62, 62, .8);
